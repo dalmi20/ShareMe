@@ -1,4 +1,4 @@
-#**Demo**: [See ShareMe in Action](https://drive.google.com/file/d/1kDJfwODnq2Wo-x3msc2cQMmdUHvHIoBg/view?usp=sharing)
+#Demo: [See ShareMe in Action](https://drive.google.com/file/d/1kDJfwODnq2Wo-x3msc2cQMmdUHvHIoBg/view?usp=sharing)
 ## What is ShareMe?
 
 ShareMe is a user-friendly Pinterest-like platform for discovering and sharing your favorite images, ideas, and inspirations. It's designed to be easy to use and works on any device.
